@@ -18,6 +18,9 @@
 # name
 PRODUCT_RELEASE_NAME := SPH-D710
 
+# OVERLAY_TARGET adds overlay asset source
+OVERLAY_TARGET := pa_hdpi
+
 #PRODUCT_PACKAGES += \
     Camera
 
